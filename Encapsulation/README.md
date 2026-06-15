@@ -4,8 +4,7 @@ This project demonstrates the use of **Constructors**, **Encapsulation**, and **
 It allows the user to create an inventory item, calculate its total value, and update details dynamically.
 
 ---
-
-## 🧠 Project Overview
+🧠 Project Overview
 
 The project consists of two main classes:
 
