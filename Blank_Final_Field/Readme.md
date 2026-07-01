@@ -1,4 +1,4 @@
-# 🧑‍🎓 Student Class Example (Java)
+#  Student Class Example (Java)
 
 ## 📘 Overview
 This project demonstrates the concept of **final variables**, **instance initializer blocks**, and **constructors** in Java using a simple `Student` class example.
